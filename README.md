@@ -1,6 +1,6 @@
 # Ecoleta
 ## O projeto
-Ecoleta é uma aplicação que uma empresa pode cadastrar um ponto de coleta, podendo cadastrar os dados da entidade e quais itens ela coleta e poder pesquisar o ponto de coleta que está em qualquer cidade.
+Ecoleta é uma aplicação que uma empresa pode cadastrar um ponto de coleta, podendo cadastrar os dados da entidade, quais itens ela coleta e os usuários podem encontrar locais que coletam tipos específicos de resíduos.
 
 ## Tecnologias utilizadas
 - CSS
